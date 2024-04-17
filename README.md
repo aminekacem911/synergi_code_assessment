@@ -11,7 +11,7 @@
 ### Clone project
 
 ````Shell
-git clone git@bitbucket.org:anypli/asc-api.git
+git clone https://github.com/aminekacem911/synergi_code_assessment.git
 ````
 
 ###  Configuration
